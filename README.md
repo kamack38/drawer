@@ -45,3 +45,5 @@ More examples you can find in the `tests` directory.
 rectangle white 250 250 500 500 0
 polygon blue 250 50 423 150 423 350 250 450 77 350 77 150
 ```
+
+![A blue hexagon](https://github.com/user-attachments/assets/057aae92-01f8-49fd-ab73-a9d6b3ac1613)
