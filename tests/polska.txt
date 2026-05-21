@@ -1,0 +1,3 @@
+800 500
+rectangle white 400 125 800 250
+rectangle red 400 375 800 250

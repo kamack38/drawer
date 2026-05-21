@@ -1,0 +1,5 @@
+7000 6000
+rectangle red 3500 1000 7000 2000
+rectangle white 3500 3000 7000 2000
+rectangle green 3500 5000 7000 2000
+ellipse red 3500 3000 1600 1600 
